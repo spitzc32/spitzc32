@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&psig=AOvVaw0s5dngKYlkYhAstO8O2gVr&ust=1666234877872000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiryOGm6_oCFQAAAAAdAAAAABAE"/></p>
+<p align="center">[![My Site](https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?w=1480&t=st=1666149080~exp=1666149680~hmac=8dd97dbe9e3665999dc3a044df5350d27f814823b6c899d16c13443f11cff5f0)](https://jayra-dev.carrd.co/#)</p>
 
 ## Hi there, I'm Jayra 
 #### A Data Engineer and a Student
@@ -9,7 +9,7 @@ The first time I learned to write a pseudocode by an edX course was the time I g
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)]([https://github.com/ArmielynObinguar/ArmielynObinguar](https://github.com/spitzc32/spitzc32))
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/armielyn-obinguar-9229561b0/](https://www.linkedin.com/in/jayra-gaile-ortiz/))
-[![My Site](https://cdn.icon-icons.com/icons2/936/PNG/512/code_icon-icons.com_73620.png)](https://jayra-dev.carrd.co/#)
+
 
     
 
