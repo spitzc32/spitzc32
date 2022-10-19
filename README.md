@@ -6,8 +6,8 @@
 First and foremost, I love code, numbers, automation, and art.
 The first time I learned to write a pseudocode by an edX course was the time I got to know how to code. It was really exciting to see how you can make life easier by letting technology do the repetitive task for you. I've learned so much in my final year of Highschool that college was the first step to explore the field of IT for me.
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)]([https://github.com/ArmielynObinguar/ArmielynObinguar](https://github.com/spitzc32/spitzc32))
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/armielyn-obinguar-9229561b0/](https://www.linkedin.com/in/jayra-gaile-ortiz/))
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/spitzc32/spitzc32)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayra-gaile-ortiz/)
 
 
     
