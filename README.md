@@ -1,5 +1,5 @@
 
-<p align="center">  <img src=[(https://cdn-icons-png.flaticon.com/512/1157/1157109.png)](https://jayra-dev.carrd.co/#)/> </p>
+<p align="center">  <img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png"/> </p>
 
 
 ## Hi there, I'm Jayra 
