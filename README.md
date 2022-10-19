@@ -9,7 +9,7 @@ The first time I learned to write a pseudocode by an edX course was the time I g
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)]([https://github.com/ArmielynObinguar/ArmielynObinguar](https://github.com/spitzc32/spitzc32))
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/armielyn-obinguar-9229561b0/](https://www.linkedin.com/in/jayra-gaile-ortiz/))
-[!My Site](https://jayra-dev.carrd.co/#)
+[![My Site](https://cdn.icon-icons.com/icons2/936/PNG/512/code_icon-icons.com_73620.png)](https://jayra-dev.carrd.co/#)
 
     
 
