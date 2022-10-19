@@ -64,5 +64,6 @@ The first time I learned to write a pseudocode by an edX course was the time I g
   </tr>
 </table>
 
- 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spitzc32&show_icons=true&locale=en&layout=compact" alt="spitzc32" /></p>
 
