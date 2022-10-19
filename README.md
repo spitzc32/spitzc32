@@ -1,5 +1,6 @@
 
-[![My Site](https://cdn-icons-png.flaticon.com/512/1157/1157109.png)](https://jayra-dev.carrd.co/#)
+<p align="center">  <img src=[(https://cdn-icons-png.flaticon.com/512/1157/1157109.png)](https://jayra-dev.carrd.co/#)/> </p>
+
 
 ## Hi there, I'm Jayra 
 #### A Data Engineer and a Student
