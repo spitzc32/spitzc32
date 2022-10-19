@@ -10,6 +10,20 @@ The first time I learned to write a pseudocode by an edX course was the time I g
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayra-gaile-ortiz/)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyachauhan050&label=Profile%20views&color=0e75b6&style=flat" alt="divyachauhan050" /> </p>
+
+- 🌱 I’m currently learning **ML**
+
+- 👯 I’m looking to collaborate on **A BrBa (Breaking Bad) chatbot**
+
+- 👨‍💻 All of my projects are available at [https://github.com/divyachauhan050](https://github.com/divyachauhan050)
+
+- 💬 Ask me about **Python, SQL, Data Visualization, BI**
+
+- 📫 How to reach me **divyachauhan050@gmail.com**
+
+- ⚡ Fun facts **I like to travel and learn new languages. I am currently improving my proficiency in German. I'm also an avid photographer. Lastly, I play tennis to stay fit (I'm a huge Rafa fan!).**
+
     
 
 
