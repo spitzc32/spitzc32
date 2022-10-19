@@ -16,7 +16,7 @@ The first time I learned to write a pseudocode by an edX course was the time I g
 
 - 🌱 I’m currently learning **Data Streaming|ETL Tools|Common Geospatial Formats**
 
-- 👯 I’m looking to collaborate on **A BrBa (Breaking Bad) chatbot**
+- 👯 I’m looking to collaborate on **NLP Tasks, Especially NMT and NER**
 
 - 👨‍💻 All of my projects are available at [https://github.com/spitzc32](https://github.com/spitzc32)
 
