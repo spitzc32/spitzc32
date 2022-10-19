@@ -25,7 +25,7 @@ The first time I learned to write a pseudocode by an edX course was the time I g
 
 - 📫 How to reach me **jayragaile@gmail.com**
 
-- ⚡ Fun facts **I like to travel and learn new languages. I am currently improving my proficiency in German. I'm also an avid photographer. Lastly, I play tennis to stay fit (I'm a huge Rafa fan!).**
+- ⚡ Fun facts **I love to read and learn new languages. I am currently improving my proficiency in French. I like water based painting and doing stuff tha t keeps me calm.**
 
     
 
