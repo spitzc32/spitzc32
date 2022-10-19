@@ -3,24 +3,26 @@
 
 ## Hi there, I'm Jayra 
 #### A Data Engineer and a Student
-First and foremost, I love code, numbers, automation, and art.
-The first time I learned to write a pseudocode by an edX course was the time I got to know how to code. It was really exciting to see how you can make life easier by letting technology do the repetitive task for you. I've learned so much in my final year of Highschool that college was the first step to explore the field of IT for me.
-
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/spitzc32/spitzc32)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayra-gaile-ortiz/)
 
-<img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyachauhan050&label=Profile%20views&color=0e75b6&style=flat" alt="divyachauhan050" /> </p>
+First and foremost, I love code, numbers, automation, and art.
+The first time I learned to write a pseudocode by an edX course was the time I got to know how to code. It was really exciting to see how you can make life easier by letting technology do the repetitive task for you. I've learned so much in my final year of Highschool that college was the first step to explore the field of IT for me.
 
-- 🌱 I’m currently learning **ML**
+
+
+<img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spitzc32&label=Profile%20views&color=0e75b6&style=flat" alt="spitzc32" /> </p>
+
+- 🌱 I’m currently learning **Data Streaming|ETL Tools|Common Geospatial Formats**
 
 - 👯 I’m looking to collaborate on **A BrBa (Breaking Bad) chatbot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/divyachauhan050](https://github.com/divyachauhan050)
+- 👨‍💻 All of my projects are available at [https://github.com/spitzc32](https://github.com/spitzc32)
 
-- 💬 Ask me about **Python, SQL, Data Visualization, BI**
+- 💬 Ask me about **Python, SQL, Kimball Principles**
 
-- 📫 How to reach me **divyachauhan050@gmail.com**
+- 📫 How to reach me **jayragaile@gmail.com**
 
 - ⚡ Fun facts **I like to travel and learn new languages. I am currently improving my proficiency in German. I'm also an avid photographer. Lastly, I play tennis to stay fit (I'm a huge Rafa fan!).**
 
