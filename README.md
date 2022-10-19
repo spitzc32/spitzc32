@@ -9,7 +9,7 @@ The first time I learned to write a pseudocode by an edX course was the time I g
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/spitzc32/spitzc32)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayra-gaile-ortiz/)
 
-
+<img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyachauhan050&label=Profile%20views&color=0e75b6&style=flat" alt="divyachauhan050" /> </p>
 
 - 🌱 I’m currently learning **ML**
