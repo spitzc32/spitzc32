@@ -1,5 +1,5 @@
 
-[![My Site](https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?w=1480&t=st=1666149080~exp=1666149680~hmac=8dd97dbe9e3665999dc3a044df5350d27f814823b6c899d16c13443f11cff5f0)](https://jayra-dev.carrd.co/#)
+[![My Site](https://cdn-icons-png.flaticon.com/512/1157/1157109.png)](https://jayra-dev.carrd.co/#)
 
 ## Hi there, I'm Jayra 
 #### A Data Engineer and a Student
