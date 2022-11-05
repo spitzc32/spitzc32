@@ -61,6 +61,6 @@ The first time I learned to write a pseudocode by an edX course was the time I g
   </tr>
 </table>
 
-
+<img src="https://www.canva.com/design/DAFREPGuAvM/tM_lOlkVKlmu97RUQlNjSQ/watch?utm_content=DAFREPGuAvM&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spitzc32&show_icons=true&locale=en&layout=compact" alt="spitzc32" /></p>
 
