@@ -1,5 +1,5 @@
 
-<p align="center">  <img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png"/> </p>
+<p align="center">  <img src="https://cdn.dribbble.com/userupload/2445209/file/original-d45babbe55d48c68d3f0ae902a7dbf95.png?compress=1&resize=1504x1128"/> </p>
 
 
 ## Hi there, I'm Jayra 
