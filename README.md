@@ -6,23 +6,11 @@
 #### A Data Engineer and a Student
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/spitzc32/spitzc32)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayra-gaile-ortiz/)
-<img src="https://komarev.com/ghpvc/?username=spitzc32&label=Profile%20views&color=0e75b6&style=flat" alt="spitzc32" />
 
 First and foremost, I love code, numbers, automation, and art.
 The first time I learned to write a pseudocode by an edX course was the time I got to know how to code. It was really exciting to see how you can make life easier by letting technology do the repetitive task for you. I've learned so much in my final year of Highschool that college was the first step to explore the field of IT for me.
 
-
-- 🌱 I’m currently learning **Data Streaming|ETL Tools|Common Geospatial Formats**
-
-- 👯 I’m looking to collaborate on **NLP Tasks, Especially NMT and NER**
-
-- 👨‍💻 All of my projects are available at [https://github.com/spitzc32](https://github.com/spitzc32)
-
-- 💬 Ask me about **Python, SQL, Kimball Principles**
-
-- 📫 How to reach me **jayragaile@gmail.com**
-
-- ⚡ Fun facts **I love to read and learn new languages. I am currently improving my proficiency in French. I like water based painting and doing stuff that keeps me calm.**
+This is an example of me destroying my profile. 
 
     
 
@@ -61,6 +49,6 @@ The first time I learned to write a pseudocode by an edX course was the time I g
   </tr>
 </table>
 
-<img src="https://www.canva.com/design/DAFREPGuAvM/tM_lOlkVKlmu97RUQlNjSQ/watch?utm_content=DAFREPGuAvM&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish"/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spitzc32&show_icons=true&locale=en&layout=compact" alt="spitzc32" /></p>
 
