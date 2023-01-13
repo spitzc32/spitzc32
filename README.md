@@ -12,7 +12,7 @@ First and foremost, I love code, numbers, automation, and art.
 The first time I learned to write a pseudocode by an edX course was the time I got to know how to code. It was really exciting to see how you can make life easier by letting technology do the repetitive task for you. I've learned so much in my final year of Highschool that college was the first step to explore the field of IT for me.
 
 
-- 🌱 I’m currently learning **Data Streaming|ETL Tools|Common Geospatial Formats**
+- 🌱 I’m currently learning **Data Streaming|ETL Tools|Data Modelling Principles**
 
 - 👯 I’m looking to collaborate on **NLP Tasks, Especially NMT and NER**
 
